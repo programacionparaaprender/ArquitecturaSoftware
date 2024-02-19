@@ -108,6 +108,40 @@
 
 ## Sección 3: Eureka Server: registrando microservicios
 
+### 22. Creando servidor de registro Eureka
+
+### 23. Conectado nuestro servicios como clientes
+
+### 24. Escalar microservicios con puerto dinámico
+
+### 25. Tolerancia de fallos y latencia con Hystrix
+
+### 26. Configurando timeout en Hystrix y Ribbon
+
+### 27. Creando yy configurando servidor Zuul API Gateway
+>- puedes hacer las peticiones en los endpoints sin enviar el bearer token
+>- 
+
+
+### 28. Zuul Filtro HTTP pre - Tiempo transcurrido
+
+### 29. Zuul HTTP post - Tiempo transcurrido
+
+### 30. Configurando timeout de Zuul API Gateway
+
+### 31. Descargar Código Fuente
+
+## Sección 4: Spring Cloud Gateway
+
+
+
+
+
+
+
+
+
+
 
 
 
