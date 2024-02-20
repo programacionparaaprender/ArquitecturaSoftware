@@ -133,6 +133,36 @@
 
 ## Sección 4: Spring Cloud Gateway
 
+### 32. Introducción a Spring Cloud Gateway
+
+### 33. Creando y configurando servicio Spring Cloud Gateway
+
+### 34. Configuración de rutas usando application.properties y application.yml
+
+### 35. Implementando filtros globales pre y post
+
+### 36. Modificando el request en el filtro pre
+
+### 37. Implementando Gateway Filter Factory
+
+### 38. Configurando y probando nuestro Gateway Filter Factory personalizado
+
+### 39. Filtros Gateway Factory que vienen de fabrica
+
+### 40. Request Predicates Factory que vienen de fábrica
+
+### 41. Descargar Código Fuente
+
+## Sección 5: Resilience4J: Resiliencia y tolerancia a fallos
+
+### 
+
+
+
+
+
+
+
 
 
 
