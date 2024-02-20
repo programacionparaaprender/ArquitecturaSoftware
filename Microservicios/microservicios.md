@@ -134,6 +134,15 @@
 ## Sección 4: Spring Cloud Gateway
 
 ### 32. Introducción a Spring Cloud Gateway
+>- Zuul Netflix y Spring Cloud Gateway
+>- Puerta de enlace, acceso centralizado
+>- Enrutamiento dinámico de los microservicios
+>- Balanceo de carga
+>- Maneja filtros propios
+>- Permite extender funcionalidades
+
+
+
 
 ### 33. Creando y configurando servicio Spring Cloud Gateway
 
