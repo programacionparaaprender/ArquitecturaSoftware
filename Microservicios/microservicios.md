@@ -164,7 +164,53 @@
 
 ## Sección 5: Resilience4J: Resiliencia y tolerancia a fallos
 
+### 42. Introducción a Circuit Breaker (Cortocircuito)
+
+### 43. Configurando microservicio items con Resilience4J
+
+### 44. Simulando fallas y latencia en el microservicio items
+
+### 45. Probando Resilience con los criterios por defecto
+
+### 46. Personalizando parámetro del Circuit Breaker
+
+### 47. Timeout
+
+### 48. Llamadas lentas
+
+### 49. Configurando Resilience4J en el application.yml
+
+### 50. Configurando Resilience4J useando application.properties y application.yml
+
+### 51. La anotación @CircuitBreaker
+
+### 52. La anotación @TimeLimiter
+
+### 53. Asunto con el fallbackMethod usando anotaciones @CircuitBreaker y @TimeLimiter
+
+### 54. Spring Cloud Gateway con Resilience4J
+
+### 55. [Opcional] Modificar el order en el filtro EjemploGlobalFilter en caso de error
+
+### 56. Descargar Código Fuente
+
+## Sección 6: Spring Cloud Config Server: centralizando la configuración
+
 ### 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
