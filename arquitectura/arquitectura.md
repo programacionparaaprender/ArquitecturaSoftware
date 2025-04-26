@@ -4,6 +4,9 @@
 ## repositorios
 >- https://github.com/danielblanco96/arquitectura-software-udemy/tree/main
 
+## Adicional
+>- https://es.wikipedia.org/wiki/Arquitectura_de_software
+
 ### 1. Introducción al curso
 <p><strong>Arquitectura Convencional</strong></p>
 
